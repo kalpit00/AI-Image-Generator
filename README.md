@@ -12,8 +12,8 @@ A modern web application that leverages Spring AI and React to provide multiple 
 
 The project consists of two main components:
 
-- `frontend/`: React-based user interface
-- `backend/`: Spring Boot application with AI integration
+- `spring-ai-demo-react/`: React-based user interface
+- `SpringAiDemo/`: Spring Boot application with AI integration
 
 ## Prerequisites
 
@@ -32,7 +32,7 @@ The project consists of two main components:
 2. Set up the backend:
 
    ```bash
-   cd backend
+   cd SpringAiDemo
    # Set your OpenAI API key in application.properties
    ./mvnw spring-boot:run
    ```
@@ -40,7 +40,7 @@ The project consists of two main components:
 3. Set up the frontend:
 
    ```bash
-   cd frontend
+   cd spring-ai-demo-react
    npm install
    npm start
    ```
