@@ -26,7 +26,7 @@ The project consists of two main components:
 1. Clone the repository:
 
    ```bash
-   git clone [your-repo-url]
+   git clone https://github.com/kalpit00/AI-Image-Generator.git
    ```
 
 2. Set up the backend:
@@ -52,14 +52,6 @@ The project consists of two main components:
 Backend:
 
 - `OPENAI_API_KEY`: Your OpenAI API key
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## License
 

@@ -70,7 +70,3 @@ The frontend communicates with the Spring Boot backend through RESTful endpoints
 - `/ask-ai`: Chat interactions
 - `/generate-image`: Image generation
 - `/recipe-creator`: Recipe creation
-
-## Contributing
-
-Please read the main project README for contribution guidelines.

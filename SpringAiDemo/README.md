@@ -120,7 +120,3 @@ spring.ai.openai.model=gpt-4
 ```bash
 ./mvnw spring-boot:run
 ```
-
-## Contributing
-
-Please read the main project README for contribution guidelines.
